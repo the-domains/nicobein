@@ -1,0 +1,28 @@
+name: nicobein
+favicon: null
+layout_spectrum: 0.8351149084046483
+typography_spectrum: 0.029528577346354723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7570127083454281
+  lightness: 0.738381598610431
+  saturation: 0.4972989165689796
+  rhythmicContrast: 0.07523119007237256
+purpose: []
